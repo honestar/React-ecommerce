@@ -1,27 +1,22 @@
-# SHOP UI React-Native Template with Native Base
-
-## Introduction
-
-> A creative and modern clothes shopping app design for react-native using the native-base UI components.
-It works well with both IOS and Android.
-
 
 ## Availables pages
 
 > This is the list of the availables pages with this source code:
-* Home
-* Shop
-* Single product
-* Product gallery
-* Cart
-* Search
-*  WishList
-* Newsletter
-* Contact
-* Find us (A map)
-* Login/Sign up
-* Payment
-* *Profil* Coming soon
+* [Home](./src/page/Home.js)
+* [Shop](./src/page/Category.js)
+* [Single product](./src/page/Product.js)
+* [Product gallery](./src/page/ImageGallery.js)
+* [Cart](./src/page/Cart.js)
+* [Search](./src/page/Search.js)
+* [WishList](./src/page/WishList.js)
+* [Newsletter](./src/page/Newsletter.js)
+* [Contact](./src/page/Contact.js)
+* [Find us (A map)](./src/page/Map.js)
+* [Login](./src/page/Login.js)/[Sign up](./src/page/Signup.js)
+* [Payment](./src/page/Checkout.js)
+
+### Coming Soon
+* Profile
 
 
 ## Installation
@@ -50,14 +45,7 @@ react-native run-android
 
 > You can download the demo APK by [Clicking here](https://www.dropbox.com/s/42l8vvq61xx6bzh/shop.apk "Download Shop APK")
 
-## Screenshots
-
-Click [here](screenshots/README.md)
-
-## Documentation
-
-> ### Coming soon
 
 ## Contact
 
-> If you have any problem you can contact me at: **atef.najar@icloud.com**
+> If you have any problem you can contact me at: **goldenjacky1@gmail.com**
